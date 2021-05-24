@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ecommerce</name>
+    </assembly>
+    <members>
+        <member name="M:Ecommerce.Controllers.ProductsController.AddProduct(Ecommerce.DTO.Request.AddProductRequest)">
+            <summary>
+            Thêm mới Product
+            </summary>
+            <param name="request"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
